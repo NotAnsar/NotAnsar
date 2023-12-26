@@ -4,14 +4,14 @@ Hi there! 👋 I'm Ansar Karrouach<br><br>I'm a passionate MERN Stack Developer 
 ## 📚 Education
 
 - **Brevet de Technicien Supérieur (BTS) in Developement des systemes d'information**
-  - *Institution:* [Name of the Institution]
-  - *Location:* [Location]
-  - *Year of Completion:* [Year]
+  - *Institution:* Brevet de Technicien Supérieur
+  - *Location:* Settat
+  - *Year of Completion:* 2022
 
 - **Licence professionnelle Technologies et Programmation Web**
   - *Institution:* Faculté des Sciences Semlalia Marrakech
   - *Location:* Marrakech
-  - *Year of Completion:* [Year]
+  - *Year of Completion:* 2023
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansarkarrouach/) 
