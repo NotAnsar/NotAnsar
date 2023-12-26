@@ -1,6 +1,17 @@
 # 💫 About Me:
 Hi there! 👋 I'm Ansar Karrouach<br><br>I'm a passionate MERN Stack Developer with a flair for building dynamic and scalable web applications. Welcome to my GitHub profile! 🚀
 
+## 📚 Education
+
+- **Brevet de Technicien Supérieur (BTS) in Developement des systemes d'information**
+  - *Institution:* [Name of the Institution]
+  - *Location:* [Location]
+  - *Year of Completion:* [Year]
+
+- **Licence professionnelle Technologies et Programmation Web**
+  - *Institution:* Faculté des Sciences Semlalia Marrakech
+  - *Location:* Marrakech
+  - *Year of Completion:* [Year]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansarkarrouach/) 
