@@ -6,6 +6,7 @@ Hello there! 👋 I'm Ansar Karrouach, a passionate MERN Stack Developer with a 
 
 ### Congratulations, you found me!
 
+- 💻 I'm a Mern stack developer.
 - 👨‍💻 I’m currently immersed in web development technologies like `Express.js`, `React`, `TypeScript`, and more.
 - 📚 I’m currently exploring the wonders of **Next.js** 😅
 - 💪🏼 Future Goals: Embrace new technologies and never cease to create innovative ideas.
@@ -19,18 +20,6 @@ Hello there! 👋 I'm Ansar Karrouach, a passionate MERN Stack Developer with a 
   <a href="mailto:karrouach.ansar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?phone=+212640449139&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a>
 </p>
-
-## 📚 Education:
-
-- **Licence professionnelle Technologies et Programmation Web**
-  - *Institution:* Faculté des Sciences Semlalia Marrakech
-  - *Location:* Marrakech
-  - *Year of Completion:* 2023
-
-- **Brevet de Technicien Supérieur (BTS) in Developement des systemes d'information**
-  - *Institution:* Brevet de Technicien Supérieur
-  - *Location:* Settat
-  - *Year of Completion:* 2022
 
 # 💻 Tech Stack:
 
