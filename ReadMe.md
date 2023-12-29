@@ -1,11 +1,5 @@
 # 💫 About Me:
 
-Hello there! 👋 I'm Ansar Karrouach, a passionate MERN Stack Developer with a knack for crafting dynamic and scalable web applications. Welcome to my GitHub profile! 🚀
-
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />!
-
-### Congratulations, you found me!
-
 - 💻 I'm a Mern stack developer.
 - 👨‍💻 I’m currently immersed in web development technologies like `Express.js`, `React`, `TypeScript`, and more.
 - 📚 I’m currently exploring the wonders of **Next.js** 😅
