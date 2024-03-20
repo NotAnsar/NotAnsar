@@ -14,7 +14,7 @@ As a highly skilled and motivated Full Stack Developer with 4 years of experienc
 
 ## Skills
 
-- **Front-end Development**: HTML, CSS, SCSS, JavaScript, Typescript, Next.js, React.js, Redux Toolkit, React Query 
+- **Front-end Development**: HTML, CSS, SCSS, JavaScript, Typescript, Next.js, React.js, Redux Toolkit, React Query, Next Auth, Prisma 
 - **Back-end Development**: Node.js, Express.js, Socket.io
 - **Database**: MongoDB, Mongoose, MySQL, PostgreSQL, T-SQL, PL-SQL
 - **UI Frameworks**: Material-UI, TailwindCSS, Shadcn
