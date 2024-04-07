@@ -19,7 +19,7 @@ As a highly skilled and motivated Full Stack Developer with 4 years of experienc
 - **Database and ORM**: MongoDB, Mongoose, MySQL, PostgreSQL, Prisma, T-SQL, PL-SQL
 - **UI Frameworks**: Material-UI, TailwindCSS, Shadcn
 - **Version Control**: Git, GitHub
-- **Others**: Figma, Adobe XD, Postman, Uml
+- **Others**: Figma, Adobe XD, Postman, Vercel, Uml
 
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
