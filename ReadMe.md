@@ -9,7 +9,6 @@ As a highly skilled and motivated Full Stack Developer with 4 years of experienc
 <p align="center">
   <a href="https://www.linkedin.com/in/ansarkarrouach/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:karrouach.ansar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://api.whatsapp.com/send?phone=+212640449139&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ## Skills
